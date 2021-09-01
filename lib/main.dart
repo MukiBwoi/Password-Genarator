@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:password_genarator/desktop_screen.dart';
 import 'package:password_genarator/responsive.dart';
 import 'package:provider/provider.dart';
 
